@@ -10,13 +10,13 @@ Integrated with a series of reliable geocoding data providers, including as Open
 
 ## API Endpoints
 
-* **Forward Geocoding**:
-* **Reverse Geocoding**:
-* **HTTPS Encryption**:
-* **JSON, XML & GeoJSON**:
-* **Embeddable Maps**:
-* **Multiple Languages**:
-* **Batch Requests**:
+* **Forward Geocoding**
+* **Reverse Geocoding**
+* **HTTPS Encryption**
+* **JSON, XML & GeoJSON**
+* **Embeddable Maps**
+* **Multiple Languages**
+* **Batch Requests**
 
 Premium geocoding plans start at only $9.99 per month. Feel like getting started right away? You can sign up for a Basic Plan here to get 100,000 monthly geocoding requests: [Signup - Basic Plan](https://positionstack.com/signup/basic)
 
