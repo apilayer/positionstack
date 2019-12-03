@@ -8,7 +8,7 @@ Integrated with a series of reliable geocoding data providers, including as Open
 
 [Get a free API access key](https://positionstack.com/product) for 25,000 monthly geocoding requests.
 
-## API Endpoints
+## API Features
 
 * **Forward Geocoding**
 * **Reverse Geocoding**
